@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://pauliuspetrauskas.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Dec 2024 23:09:21 +0200</lastBuildDate>
-    <atom:link href="https://pauliuspetrauskas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Dec 2024 00:26:07 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/naujas2/</link>
+      <pubDate>Sat, 21 Dec 2024 00:26:07 +0200</pubDate>
+      <guid>http://localhost:1313/posts/naujas2/</guid>
+      <description></description>
+    </item>
     <item>
       <title>paulius petrauskas</title>
-      <link>https://pauliuspetrauskas.github.io/posts/naujas/</link>
+      <link>http://localhost:1313/posts/naujas/</link>
       <pubDate>Fri, 20 Dec 2024 23:09:21 +0200</pubDate>
-      <guid>https://pauliuspetrauskas.github.io/posts/naujas/</guid>
-      <description>&lt;p&gt;sveiki as esu paulius&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/naujas/</guid>
+      <description>&lt;p&gt;sveiki as esu paulius&#xA;&lt;figure&gt;&lt;img src=&#34;myimage.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Image Title&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;img src=&#34;myimage.jpg&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
